@@ -5,6 +5,7 @@ SMMPPI: tool to predict PPI modulators
 To use the program, de-compress the program file with following command: 
 tar -xvf SMMPPI_Program.tar.gz
 cd SMMPPI_Program
+
 -------------------------------------------------------------------------
 
 ##Pre-requisite Installations
