@@ -71,6 +71,7 @@ For prediction of General PPIMs, any of these 3 classifiers can also be chosen (
 
 
 To use the PPI family specific SMMPPI Predictors, run the following command 
+
 ./search_XXX comp.smi prefix 
  
   where, 
@@ -83,11 +84,11 @@ To use the PPI family specific SMMPPI Predictors, run the following command
 
 ##Results 
 
-The output directory contains  
-  1.score.txt : contains Compound IDs, Smiles, Predictor Score, Status 
-                   (Positive : Potential PPIM of concerned family; 
-                   Negative : Not a potential PPIM of concerend family) 
-  2.selected_img : contains images of compounds predicted positive by Predictor 
+The output directory contains   
+  1.score.txt : contains Compound IDs, Smiles, Predictor Score, Status  
+                   (Positive : Potential PPIM of concerned family;  
+                   Negative : Not a potential PPIM of concerend family)  
+  2.selected_img : contains images of compounds predicted positive by Predictor  
 
 
 
